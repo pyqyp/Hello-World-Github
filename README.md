@@ -1,3 +1,5 @@
 # Hello-World-Github
-This is a hello world project for usage of Github
-I added this line in the feature branch
+
+Hello, I'm POON Yong Xian!
+
+My student Number is 1155157534!
